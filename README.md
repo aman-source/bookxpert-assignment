@@ -53,14 +53,14 @@ Perfect for testing voice interfaces or building the foundation for a voice assi
 
 ## Features
 
-- ✅ Real-time speech recognition (English)
-- ✅ Converts microphone input into text
-- ✅ Speaks the result back using `pyttsx3` (offline TTS)
-- ✅ Clean Streamlit UI with status messages
+-  Real-time speech recognition (English)
+-  Converts microphone input into text
+-  Speaks the result back using `pyttsx3` (offline TTS)
+-  Clean Streamlit UI with status messages
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```bash
 pip install streamlit speechrecognition pyttsx3 pyaudio
