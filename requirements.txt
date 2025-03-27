@@ -1,0 +1,14 @@
+numpy>=1.19.0
+faiss-cpu>=1.7.0
+sentence-transformers>=2.2.0
+streamlit
+torch
+transformers
+peft
+sentencepiece
+bitsandbytes
+accelerate
+streamlit
+speechrecognition
+pyttsx3
+pyaudio
